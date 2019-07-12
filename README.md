@@ -7,7 +7,7 @@ The building of this console  includes:
 * A storage engine (file storage)
 
 ### Usage
-To execute the console
+To execute our console
 ```
 $ ./console.py
 (hbnb) help
